@@ -1,1 +1,0 @@
-L.Icon.Default.imagePath = "/apps/acs-commons/authoring/vendor/leaflet/images/";

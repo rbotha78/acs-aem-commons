@@ -1,3 +1,0 @@
-#base=.
-
-bindonce.min.js

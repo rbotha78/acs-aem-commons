@@ -4,4 +4,4 @@
     allowProxy="{Boolean}true"
     jsProcessor="[default:none,min:gcc]"
     categories="[acs-commons.genericlist.console]"
-    dependencies="[acs-commons.angularjs]"/>
+    dependencies="[]"/>
